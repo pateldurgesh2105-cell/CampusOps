@@ -4,6 +4,10 @@ CampusOps is a small data engineering and analytics project built around a reali
 
 It processes maintenance complaints, energy usage, equipment records, and room utilization data to identify recurring issues, unresolved work, and operational patterns.
 
+## Live Dashboard
+
+https://campusops-bpwmwfvsdqmkgfgxcyutyw.streamlit.app/
+
 ## Features
 - Data cleaning and validation
 - Duplicate complaint removal
